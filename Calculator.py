@@ -1,25 +1,18 @@
 class Calculator:
     def add(self, x, y):
-        # TODO: implement addition
-        pass
+        return x+y
 
     def subtract(self, x, y):
-        # TODO: implement subtraction
-        pass
+        return x-y
 
     def multiply(self, x, y):
-        # TODO: implement multiplication
-        pass
+        return x*y
 
     def divide(self, x, y):
-        # TODO: implement division
-        pass
+        return x/y
 
     def square(self, x):
-        # TODO: implement square of a number
-        pass
+        return x**2
 
     def cube(self, x):
-        # TODO: implement cube of a number
-        pass
-
+        return x**3
