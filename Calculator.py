@@ -3,8 +3,7 @@ class Calculator:
         return x+y
 
     def subtract(self, x, y):
-        # TODO: implement subtraction
-        pass
+        return x-y
 
     def multiply(self, x, y):
         # TODO: implement multiplication
@@ -21,4 +20,3 @@ class Calculator:
     def cube(self, x):
         # TODO: implement cube of a number
         pass
-
