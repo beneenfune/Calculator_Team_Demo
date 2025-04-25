@@ -9,12 +9,3 @@ Welcome! This is a collaborative GitHub tutorial project for our new developers.
 - You are SSHEd into **NERSC** using **VSCode Remote SSH**
 - You have `git` installed and configured
 
----
-
-## 🪜 Step-by-Step Instructions
-
-### 1. Clone the Repo
-
-```bash
-git clone <repo-url>
-cd Calculator_Team_Demo
