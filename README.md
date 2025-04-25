@@ -17,4 +17,4 @@ Welcome! This is a collaborative GitHub tutorial project for our new developers.
 
 ```bash
 git clone <repo-url>
-cd Calculator
+cd Calculator_Team_Demo
