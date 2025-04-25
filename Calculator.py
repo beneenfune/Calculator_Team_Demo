@@ -1,7 +1,6 @@
 class Calculator:
     def add(self, x, y):
-        # TODO: implement addition
-        pass
+        return x+y
 
     def subtract(self, x, y):
         # TODO: implement subtraction
