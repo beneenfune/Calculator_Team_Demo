@@ -7,8 +7,7 @@ class Calculator:
         pass
 
     def multiply(self, x, y):
-        # TODO: implement multiplication
-        pass
+        return x * y
 
     def divide(self, x, y):
         # TODO: implement division
